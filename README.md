@@ -28,7 +28,7 @@ To stop all docker containers use:
 ./stop.sh
 ```
 
-## Design choices: 
+## Design decisions
 Please refere to the README's of the sub modules themselves:
 * [Frontend](https://github.com/Lamasaurus/stackoverflow-light-front-end)
 * [Backend](https://github.com/Lamasaurus/stackoverflow-light-back-end)
