@@ -1,0 +1,9 @@
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/Lamasaurus/stackoverflow-light-webserver
+[submodule "database"]
+	path = database
+	url = git@github.com:Lamasaurus/stackoverflow-light-database.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Lamasaurus/stackoverflow-light-back-end.git
