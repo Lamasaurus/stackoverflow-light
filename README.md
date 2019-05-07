@@ -1,6 +1,14 @@
 # stackoverflow-light
 This is a repo that combines all the sub modules to get the full application running.
 
+## Prerequisites
+
+Please make sure these are installed locally:
+* Node.js
+* NPM
+* Docker
+* Docker-Compose
+
 ## Usage
 Simply clone the repo and run:
 ```
